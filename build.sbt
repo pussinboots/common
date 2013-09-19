@@ -12,5 +12,6 @@ resolvers += "typesafe" at "http://repo.typesafe.com/typesafe/releases"
 libraryDependencies ++= Seq(
     "co.freeside" % "betamax" % "1.1.2",
     "org.codehaus.groovy" % "groovy-all" % "1.8.8",
+    "de.flapdoodle.embedmongo" % "de.flapdoodle.embedmongo" % "1.18",
     "org.scalatest" %% "scalatest" % "1.6.1"
 )
