@@ -1,4 +1,4 @@
-package com.typesafe.webwords.indexer.mongo
+package org.frank.test.mongodb
 
 import de.flapdoodle.embedmongo._
 import de.flapdoodle.embedmongo.config.{MongodProcessOutputConfig, RuntimeConfig, MongodConfig}
